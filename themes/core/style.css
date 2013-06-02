@@ -1,0 +1,25 @@
+/* 
+    Document   : style
+    Created on : 2013-jun-02, 15:04:57
+    Author     : Eva
+    Description:
+        Core theme for Celine
+*/
+
+/**
+* Structure
+*/
+html{}
+body{
+   background-color:#eee;
+   font: 1em Verdana, Arial, Helvetica, sans-serif;
+}
+
+#header,
+#main,
+#footer {
+   margin:0 auto;
+   width:970px;
+   background-color:#fff;
+   padding: 1em;
+}
